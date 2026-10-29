@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 24" width="100%" height="24">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A0A12" stop-opacity="0" />
+      <stop offset="20%" stop-color="#7B2FF7" />
+      <stop offset="50%" stop-color="#00F0FF" />
+      <stop offset="80%" stop-color="#FF2A6D" />
+      <stop offset="100%" stop-color="#0A0A12" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="12" x2="900" y2="12" stroke="url(#lineGrad)" stroke-width="1.5" />
+  <polygon points="435,9 465,9 460,15 440,15" fill="#FCEE0A" />
+  <rect x="180" y="10" width="25" height="4" fill="#00F0FF">
+    <animate attributeName="x" values="180;700;180" dur="6s" repeatCount="indefinite" />
+  </rect>
+  <rect x="700" y="10" width="18" height="4" fill="#FF2A6D">
+    <animate attributeName="x" values="700;180;700" dur="6s" repeatCount="indefinite" />
+  </rect>
+</svg>
