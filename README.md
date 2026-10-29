@@ -1,149 +1,186 @@
 <div align="center">
 
-# 《 VOICE OF THE WORLD: APPRAISAL SYSTEM 》
+<!-- HEADER BANNER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6b21a8,100:06b6d4&height=200&section=header&text=OmegaRyujin%20%E7%AB%9C%E7%A5%9E&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Leveling%20Up%20in%20Web%20Development%20%7C%20Code%20%E2%80%A2%20Anime%20%E2%80%A2%20Light%20Novels%20%E2%9A%A1&descAlignY=58&descSize=16" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,50:9333ea,100:0891b2&height=200&section=header&text=OmegaRyujin%20%E7%AB%9C%E7%A5%9E&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Leveling%20Up%20in%20Web%20Development%20%7C%20Code%20%E2%80%A2%20Anime%20%E2%80%A2%20Light%20Novels%20%E2%9A%A1&descAlignY=58&descSize=16" />
+  <img alt="OmegaRyujin Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6b21a8,100:06b6d4&height=200&section=header&text=OmegaRyujin%20%E7%AB%9C%E7%A5%9E&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Leveling%20Up%20in%20Web%20Development%20%7C%20Code%20%E2%80%A2%20Anime%20%E2%80%A2%20Light%20Novels%20%E2%9A%A1&descAlignY=58&descSize=16" width="100%" />
+</picture>
 
-```
-<<< NOTICE: Individual [ Ryujin ] detected in the Tempest Network. >>>
-<<< Commencing status assessment and skill analysis via Raphael... >>>
-<<< Analysis Complete. Access Granted. >>>
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:0ea5e9,100:38bdf8&height=180&section=header&text=Rimuru's%20Code%20Federation&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Tensura Header" width="100%"/>
-
-### 👑 True Demon Lord of Code | Jura Tempest Federation Chief Architect
-**`[ Full-Stack Conjurer ]`** • **`[ Open Source Monster ]`** • **`[ System Optimizer ]`**
+<!-- ANIMATED TYPING SVG -->
+<a href="https://github.com/OmegaRyujin">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Yo!+I'm+OmegaRyujin+%E2%80%94+Student+%26+Hobbyist+Dev;Crafting+Sleek+UIs+with+React+%26+Tailwind+CSS;Scripting+Cool+Things+in+JavaScript+%26+Python;Powered+by+Late-Night+Code+%26+Light+Novels+%E2%9C%A8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7E22CE&center=true&vCenter=true&width=650&lines=Yo!+I'm+OmegaRyujin+%E2%80%94+Student+%26+Hobbyist+Dev;Crafting+Sleek+UIs+with+React+%26+Tailwind+CSS;Scripting+Cool+Things+in+JavaScript+%26+Python;Powered+by+Late-Night+Code+%26+Light+Novels+%E2%9C%A8" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Yo!+I'm+OmegaRyujin+%E2%80%94+Student+%26+Hobbyist+Dev;Crafting+Sleek+UIs+with+React+%26+Tailwind+CSS;Scripting+Cool+Things+in+JavaScript+%26+Python;Powered+by+Late-Night+Code+%26+Light+Novels+%E2%9C%A8" />
+  </picture>
+</a>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/OmegaRyujin?style=for-the-badge&logo=github&color=0284c7&labelColor=0f172a)](https://github.com/OmegaRyujin)
-[![Status](https://img.shields.io/badge/Status-Awakened_Demon_Lord-38bdf8?style=for-the-badge&logo=crystal&labelColor=0f172a)](https://github.com/OmegaRyujin)
-[![Magicules](https://img.shields.io/badge/EP_(Existence_Value)-Over_9,000,000-dc2626?style=for-the-badge&logo=sparkles&labelColor=0f172a)](https://github.com/OmegaRyujin)
+<!-- STATUS & VISITOR BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=OmegaRyujin&label=Guild+Visitors&color=a855f7&style=for-the-badge)
+![Status](https://img.shields.io/badge/Current_Arc-Web_Dev_Training-06b6d4?style=for-the-badge&labelColor=1e1b4b)
+![Class](https://img.shields.io/badge/Class-Student_%26_Otaku_Dev-a855f7?style=for-the-badge&labelColor=1e1b4b)
 
 </div>
 
 ---
 
-### 《 INDIVIDUAL STATUS SHEET 》
+### 🔮 `~/about-me` — Player Status
 
-```yaml
-Name: Ryujin (Epithet: Chaos Creator)
-Species: Ultimate Digital Slime (Demon Slime Class)
-Affiliation: Jura Tempest Federation / High-Council Dev Guild
-Divine Protection: Storm Crest & Raphael's Guidance
-Current Quest: Building robust scalable architectures & annihilating production bugs
-Magicule Density (Commits): Consistently lethal
-```
+> *"Why wait for an isekai truck when you can build your own world in the browser?"*
+
+- 🎓 **Student & hobbyist developer** on a quest to master modern **Web Development**.
+- ⚡ Building interactive frontends with **React & Tailwind CSS**, backed by **JavaScript & Python**.
+- 📚 When I'm not squashing bugs, I'm binging seasonal **Anime**, catching up on **Manga**, or deep in a 20-volume **Light Novel** series.
+- 🎯 **Current Main Quest:** Building responsive full-stack web apps and leveling up my UI/UX game.
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">📺 <b>Currently Watching</b><br/><sub>Seasonal Anime & Sci-Fi Classics</sub></td>
+    <td align="center">📖 <b>Currently Reading</b><br/><sub>Fantasy / Sci-Fi Light Novels & Manga</sub></td>
+    <td align="center">🎧 <b>Coding Fuel</b><br/><sub>Anime OSTs, Lo-Fi & Synthwave</sub></td>
+  </tr>
+</table>
+</div>
 
 ---
 
-### 《 SKILL TREE & ARSENAL 》
-
-#### 🌟 Ultimate Skills *(Core Proficiencies)*
-* **『 Lord of Wisdom: RAPHAEL 』** — *Algorithmic optimization, architecture design, and sub-millisecond execution.*
-  * `Python` • `TypeScript` • `Go` • `Rust` *(choose your core languages)*
-* **『 Gluttonous King: BEELZEBUTH 』** — *Mass consumption and indexing of massive data lakes.*
-  * `PostgreSQL` • `Redis` • `MongoDB` • `Apache Kafka`
-* **『 Covenant King: URIEL 』** — *Absolute spatial barriers and defensive client-side infrastructure.*
-  * `React` • `Next.js` • `Vue.js` • `TailwindCSS`
-* **『 Storm King: VELDORA 』** — *Raw pipeline devastation and continuous container deployment.*
-  * `Docker` • `Kubernetes` • `AWS` • `GitHub Actions`
-
-<br/>
+### 🛠️ `~/tech-arsenal` — Equipped Skills
 
 <div align="center">
 
-#### 《 RUNIC INSIGNIAS (TECH STACK) 》
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=22d3ee) ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=a855f7) ![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=22d3ee) ![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=a855f7) |
+| **Frontend & UI** | ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=22d3ee) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=a855f7) ![Vite](https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite&logoColor=22d3ee) |
+| **Tools & Gear** | ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=a855f7) ![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee) ![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=a855f7) ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=22d3ee) |
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,py,react,tailwind,html,css,vite,git,github,vscode&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,py,react,tailwind,html,css,vite,git,github,vscode&theme=light" />
+  <img alt="Skill Icons" src="https://skillicons.dev/icons?i=js,py,react,tailwind,html,css,vite,git,github,vscode&theme=dark" />
+</picture>
 
 </div>
 
 ---
 
-### 《 INTRINSIC RESISTANCES & BUFFS 》
+### 🚀 `~/featured-quests` — Project Showcase
 
-```diff
-+ [PASSIVE] Bug Resistance EX — High tolerance against undocumented legacy exceptions.
-+ [PASSIVE] Merge Conflict Nullification — Absolute reconciliation of divergent branches.
-+ [PASSIVE] Caffeine Synthesis — Converts roast coffee directly into active Magicules.
-+ [ACTIVE] Thought Acceleration — Speeds up debugging perception by 1,000,000x.
-```
-
----
-
-### 《 LABYRINTH EXPEDITIONS (FEATURED PROJECTS) 》
-
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">🏛️ Tempest Core Infrastructure</h3>
-      <p align="center">High-performance microservices engine handling parallel event streams across dimensional servers.</p>
-      <p align="center">
-        <code>Go</code> • <code>gRPC</code> • <code>K8s</code>
+    <td width="50%" valign="top">
+      <h3>🌌 <a href="https://github.com/OmegaRyujin/anitrackr">AniTrackr</a></h3>
+      <p>A sleek anime, manga, and light novel backlog tracker with seasonal charts and custom tier lists.</p>
+      <p>
+        <kbd>React</kbd> <kbd>Tailwind CSS</kbd> <kbd>Jikan API</kbd>
       </p>
-      <p align="center">
-        <a href="https://github.com/OmegaRyujin/project-one"><b>[ Enter Labyrinth Floor 100 ]</b></a>
-      </p>
+      <p><a href="https://github.com/OmegaRyujin/anitrackr"><b>🔗 View Repository →</b></a></p>
     </td>
-    <td width="50%">
-      <h3 align="center">🔮 Megiddo Analytics Engine</h3>
-      <p align="center">Targeted distributed web-crawler and parsing framework capable of pinpoint precision analysis.</p>
-      <p align="center">
-        <code>Python</code> • <code>FastAPI</code> • <code>Redis</code>
+    <td width="50%" valign="top">
+      <h3>📖 <a href="https://github.com/OmegaRyujin/novelverse-reader">NovelVerse Reader</a></h3>
+      <p>Distraction-free web light novel reader featuring customizable dark themes, typography controls, and bookmarking.</p>
+      <p>
+        <kbd>JavaScript</kbd> <kbd>Tailwind CSS</kbd> <kbd>LocalStorage</kbd>
       </p>
-      <p align="center">
-        <a href="https://github.com/OmegaRyujin/project-two"><b>[ Inspect Water Mirrors ]</b></a>
+      <p><a href="https://github.com/OmegaRyujin/novelverse-reader"><b>🔗 View Repository →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐍 <a href="https://github.com/OmegaRyujin/ryujin-ReleaseBot">Ryujin Release Notifier</a></h3>
+      <p>Lightweight Python automation script that tracks new manga chapters and light novel translations.</p>
+      <p>
+        <kbd>Python</kbd> <kbd>BeautifulSoup</kbd> <kbd>AsyncIO</kbd>
       </p>
+      <p><a href="https://github.com/OmegaRyujin/ryujin-ReleaseBot"><b>🔗 View Repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/OmegaRyujin/omega-portfolio">OmegaRyujin Hub</a></h3>
+      <p>Personal developer portfolio built with neon purple-and-cyan cyberpunk aesthetics and responsive animations.</p>
+      <p>
+        <kbd>React</kbd> <kbd>Tailwind CSS</kbd> <kbd>Vite</kbd>
+      </p>
+      <p><a href="https://github.com/OmegaRyujin/omega-portfolio"><b>🔗 View Repository →</b></a></p>
     </td>
   </tr>
 </table>
 
+> 💡 *Swap the repository names above with your live projects as you publish them!*
+
 ---
 
-### 《 FEDERATION INTELLIGENCE METRICS 》
+### 📊 `~/combat-stats` — GitHub Telemetry
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OmegaRyujin&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&icon_color=0284c7&text_color=e2e8f0&border_color=1e293b&hide_border=false" alt="Stats Card" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmegaRyujin&theme=tokyonight&background=0f172a&ring=38bdf8&fire=0284c7&currStreakLabel=38bdf8&border=1e293b" alt="Streak Card" width="48%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=OmegaRyujin&show_icons=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=22d3ee&border_color=30363d&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=OmegaRyujin&show_icons=true&bg_color=ffffff&title_color=7e22ce&text_color=334155&icon_color=0891b2&border_color=e2e8f0&hide_border=false" />
+  <img height="175" alt="OmegaRyujin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OmegaRyujin&show_icons=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=22d3ee&border_color=30363d&hide_border=false" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaRyujin&layout=compact&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_color=30363d&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaRyujin&layout=compact&bg_color=ffffff&title_color=7e22ce&text_color=334155&border_color=e2e8f0&hide_border=false" />
+  <img height="175" alt="OmegaRyujin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaRyujin&layout=compact&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_color=30363d&hide_border=false" />
+</picture>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaRyujin&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&border_color=1e293b" alt="Top Languages" width="60%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=OmegaRyujin&background=0D1117&border=30363D&stroke=30363D&ring=A855F7&fire=22D3EE&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A855F7&sideLabels=22D3EE&dates=8B949E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=OmegaRyujin&background=FFFFFF&border=E2E8F0&stroke=E2E8F0&ring=7E22CE&fire=0891B2&currStreakNum=1E293B&sideNums=1E293B&currStreakLabel=7E22CE&sideLabels=0891B2&dates=64748B" />
+  <img height="165" alt="OmegaRyujin's Streak Stats" src="https://streak-stats.demolab.com?user=OmegaRyujin&background=0D1117&border=30363D&stroke=30363D&ring=A855F7&fire=22D3EE&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A855F7&sideLabels=22D3EE&dates=8B949E" />
+</picture>
 
 </div>
 
 ---
 
-### 《 THOUGHT COMMUNICATION LINK (CONTACT) 》
+### 🐉 `~/dragon-trail` — Contribution Grid
 
 <div align="center">
 
-*Initiate a telepathic link or send an envoy to the Jura Tempest Central Council:*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Thought_Net-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![X / Twitter](https://img.shields.io/badge/Telepathy-Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_TWITTER)
-[![Discord](https://img.shields.io/badge/Tempest_Lobby-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Email](https://img.shields.io/badge/Familiar_Summon-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-
-<br/>
-
-```
-<<< REPORT: All configurations synchronized successfully. >>>
-<<< Closing connection to Individual [ Ryujin ]. Glory to Tempest. >>>
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0ea5e9,100:0284c7&height=90&section=footer" alt="Footer Wave" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmegaRyujin/OmegaRyujin/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmegaRyujin/OmegaRyujin/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OmegaRyujin/OmegaRyujin/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
-* **Skill Customization:** Edit the tech stack lists under **`Lord of Wisdom`**, **`Gluttonous King`**, and **`Covenant King`** with your actual day-to-day technologies.
-* **Theme Styling:** The GitHub statistics cards utilize the `tokyonight` base engine adjusted with Tempest hex codes for seamless contrast and dark mode compatibility.
+
+---
+
+### 🌐 `~/summon-me` — Let's Connect!
+
+<div align="center">
+
+<a href="https://github.com/OmegaRyujin">
+  <img src="https://img.shields.io/badge/GitHub-OmegaRyujin-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub" />
+</a>
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-Say_Hello-22d3ee?style=for-the-badge&logo=discord&logoColor=white&labelColor=0f172a" alt="Discord" />
+</a>
+<a href="https://myanimelist.net">
+  <img src="https://img.shields.io/badge/MyAnimeList-Anime_%26_LN_List-a855f7?style=for-the-badge&logo=myanimelist&logoColor=white&labelColor=0f172a" alt="MyAnimeList" />
+</a>
+<a href="https://x.com">
+  <img src="https://img.shields.io/badge/X_%2F_Twitter-Connect-22d3ee?style=for-the-badge&logo=x&logoColor=white&labelColor=0f172a" alt="X" />
+</a>
+
+<br/><br/>
+
+<sub>⚡ Crafted with code, caffeine, and anime vibes by <b>OmegaRyujin</b> ⚡</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6b21a8,100:0f172a&height=110&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:9333ea,100:3b0764&height=110&section=footer" />
+  <img alt="Footer Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6b21a8,100:0f172a&height=110&section=footer" width="100%" />
+</picture>
+
+</div>
