@@ -1,186 +1,235 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
+<!-- ===================================================================== -->
+<!-- 1. ANIMATED HEADER BANNER                                             -->
+<!-- ===================================================================== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6b21a8,100:06b6d4&height=200&section=header&text=OmegaRyujin%20%E7%AB%9C%E7%A5%9E&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Leveling%20Up%20in%20Web%20Development%20%7C%20Code%20%E2%80%A2%20Anime%20%E2%80%A2%20Light%20Novels%20%E2%9A%A1&descAlignY=58&descSize=16" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,50:9333ea,100:0891b2&height=200&section=header&text=OmegaRyujin%20%E7%AB%9C%E7%A5%9E&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Leveling%20Up%20in%20Web%20Development%20%7C%20Code%20%E2%80%A2%20Anime%20%E2%80%A2%20Light%20Novels%20%E2%9A%A1&descAlignY=58&descSize=16" />
-  <img alt="OmegaRyujin Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6b21a8,100:06b6d4&height=200&section=header&text=OmegaRyujin%20%E7%AB%9C%E7%A5%9E&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Leveling%20Up%20in%20Web%20Development%20%7C%20Code%20%E2%80%A2%20Anime%20%E2%80%A2%20Light%20Novels%20%E2%9A%A1&descAlignY=58&descSize=16" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner.svg" />
+  <img alt="OMEGARYUJIN // FULL-STACK DEV & TOOL BUILDER" src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0A12,35:0D0221,75:7B2FF7,100:00F0FF&height=220&section=header&text=OMEGARYUJIN&fontSize=58&fontColor=00F0FF&stroke=FF2A6D&strokeWidth=2&desc=%2F%2F%20FULL-STACK%20DEV%20%26%20TOOL%20BUILDER%20%5BNEURAL_LINK%3A%20ACTIVE%5D&descSize=16&descAlignY=75&animation=twinkling" width="100%" />
 </picture>
 
-<!-- ANIMATED TYPING SVG -->
+<!-- ===================================================================== -->
+<!-- 2. TYPING ANIMATION                                                   -->
+<!-- ===================================================================== -->
 <a href="https://github.com/OmegaRyujin">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Yo!+I'm+OmegaRyujin+%E2%80%94+Student+%26+Hobbyist+Dev;Crafting+Sleek+UIs+with+React+%26+Tailwind+CSS;Scripting+Cool+Things+in+JavaScript+%26+Python;Powered+by+Late-Night+Code+%26+Light+Novels+%E2%9C%A8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7E22CE&center=true&vCenter=true&width=650&lines=Yo!+I'm+OmegaRyujin+%E2%80%94+Student+%26+Hobbyist+Dev;Crafting+Sleek+UIs+with+React+%26+Tailwind+CSS;Scripting+Cool+Things+in+JavaScript+%26+Python;Powered+by+Late-Night+Code+%26+Light+Novels+%E2%9C%A8" />
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Yo!+I'm+OmegaRyujin+%E2%80%94+Student+%26+Hobbyist+Dev;Crafting+Sleek+UIs+with+React+%26+Tailwind+CSS;Scripting+Cool+Things+in+JavaScript+%26+Python;Powered+by+Late-Night+Code+%26+Light+Novels+%E2%9C%A8" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=2600&pause=900&color=00F0FF&background=0A0A1200&center=true&vCenter=true&multiline=false&width=820&height=45&lines=%3E%3E+INITIALIZING+NEURAL+LINK...+%5BACCESS+GRANTED%5D;ROLE+%3A%3A+FULL-STACK+DEVELOPER+%26+TOOL+BUILDER;STACK+%3A%3A+REACT+%2F%2F+TAILWIND+CSS+%2F%2F+JAVASCRIPT+%2F%2F+PYTHON;DAEMON+%3A%3A+SQUASHING+BUGS+%26+BINGING+23-VOL+LIGHT+NOVELS;SYS.STATUS+%3A%3A+BUILDING+NEXT-GEN+WEB+APPLICATIONS" alt="Terminal Typing Animation" />
 </a>
 
-<br/>
+<br />
 
-<!-- STATUS & VISITOR BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=OmegaRyujin&label=Guild+Visitors&color=a855f7&style=for-the-badge)
-![Status](https://img.shields.io/badge/Current_Arc-Web_Dev_Training-06b6d4?style=for-the-badge&labelColor=1e1b4b)
-![Class](https://img.shields.io/badge/Class-Student_%26_Otaku_Dev-a855f7?style=for-the-badge&labelColor=1e1b4b)
+<img src="https://img.shields.io/badge/SYS.STATUS-ONLINE-00F0FF?style=flat-square&labelColor=0D0221" alt="System Status: Online" />
+<img src="https://img.shields.io/badge/SEC.CLEARANCE-OMEGA_TIER-FF2A6D?style=flat-square&labelColor=0D0221" alt="Clearance: Omega" />
+<img src="https://img.shields.io/badge/NET.NODE-NIGHT_CITY_GRID-7B2FF7?style=flat-square&labelColor=0D0221" alt="Node: Night City Grid" />
+<img src="https://img.shields.io/badge/ALERT_LEVEL-NOMINAL-FCEE0A?style=flat-square&labelColor=0D0221" alt="Alert: Nominal" />
 
 </div>
 
----
+<br />
 
-### 🔮 `~/about-me` — Player Status
+<!-- ===================================================================== -->
+<!-- 3. BOOT-SEQUENCE INTRO                                                -->
+<!-- ===================================================================== -->
+### `// 01 :: SYS.INIT [ BOOT_SEQUENCE // WHOAMI ]`
 
-> *"Why wait for an isekai truck when you can build your own world in the browser?"*
-
-- 🎓 **Student & hobbyist developer** on a quest to master modern **Web Development**.
-- ⚡ Building interactive frontends with **React & Tailwind CSS**, backed by **JavaScript & Python**.
-- 📚 When I'm not squashing bugs, I'm binging seasonal **Anime**, catching up on **Manga**, or deep in a 20-volume **Light Novel** series.
-- 🎯 **Current Main Quest:** Building responsive full-stack web apps and leveling up my UI/UX game.
+```json
+// root@omegaryujin-deck:~# whoami && cat /etc/neural-profile.json
+{
+  "handle": "OmegaRyujin",
+  "class": "Full-stack Dev & Tool Builder",
+  "bio": "I like Anime, Manga, light novels, and Coding.",
+  "directive": "Student & hobbyist developer on a quest to master modern Web Development.",
+  "architecture": {
+    "frontend": ["React", "Tailwind CSS", "HTML5", "CSS3", "Vite"],
+    "backend_and_core": ["JavaScript", "Python", "Node.js"],
+    "focus": "Building responsive full-stack web apps and leveling up my UI/UX game."
+  },
+  "background_daemon": "When I'm not squashing bugs, I'm binging seasonal Anime, catching up on Manga, or deep in a 23-volume Light Novel series.",
+  "system_status": "[ ACCESS GRANTED // READY FOR COLLABORATION ]"
+}
+```
 
 <div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="HUD Divider" />
+</div>
+
+<!-- ===================================================================== -->
+<!-- 4. TECH STACK                                                         -->
+<!-- ===================================================================== -->
+### `// 02 :: CYBERWARE.LOADOUT [ TECH_STACK ]`
+
+<div align="center">
+
+| `>> LANGUAGES` | `>> FRAMEWORKS & LIBS` | `>> TOOLS & ENGINE` | `>> PLATFORMS` |
+| :---: | :---: | :---: | :---: |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-00F0FF?style=for-the-badge&logo=javascript&logoColor=00F0FF&labelColor=0D0221) | ![React](https://img.shields.io/badge/React-00F0FF?style=for-the-badge&logo=react&logoColor=00F0FF&labelColor=0D0221) | ![Vite](https://img.shields.io/badge/Vite-FCEE0A?style=for-the-badge&logo=vite&logoColor=FCEE0A&labelColor=0D0221) | ![GitHub](https://img.shields.io/badge/GitHub-7B2FF7?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D0221) |
+| ![Python](https://img.shields.io/badge/Python-FF2A6D?style=for-the-badge&logo=python&logoColor=FF2A6D&labelColor=0D0221) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-7B2FF7?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF&labelColor=0D0221) | ![Git](https://img.shields.io/badge/Git-FF2A6D?style=for-the-badge&logo=git&logoColor=FF2A6D&labelColor=0D0221) | |
+| ![HTML5](https://img.shields.io/badge/HTML5-7B2FF7?style=for-the-badge&logo=html5&logoColor=FF2A6D&labelColor=0D0221) | ![Node.js](https://img.shields.io/badge/Node.js-FF2A6D?style=for-the-badge&logo=nodedotjs&logoColor=FCEE0A&labelColor=0D0221) | ![VS Code](https://img.shields.io/badge/VS%20Code-00F0FF?style=for-the-badge&logo=visualstudiocode&logoColor=00F0FF&labelColor=0D0221) | |
+| ![CSS3](https://img.shields.io/badge/CSS3-00F0FF?style=for-the-badge&logo=css3&logoColor=00F0FF&labelColor=0D0221) | | | |
+
+</div>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="HUD Divider" />
+</div>
+
+<!-- ===================================================================== -->
+<!-- 5. FEATURED PROJECTS                                                  -->
+<!-- ===================================================================== -->
+### `// 03 :: DEPLOYED.MODULES [ FEATURED_PROJECTS ]`
+
+<div align="center">
+
 <table>
   <tr>
-    <td align="center">📺 <b>Currently Watching</b><br/><sub>Seasonal Anime & Sci-Fi Classics</sub></td>
-    <td align="center">📖 <b>Currently Reading</b><br/><sub>Fantasy / Sci-Fi Light Novels & Manga</sub></td>
-    <td align="center">🎧 <b>Coding Fuel</b><br/><sub>Anime OSTs, Lo-Fi & Synthwave</sub></td>
-  </tr>
-</table>
-</div>
-
----
-
-### 🛠️ `~/tech-arsenal` — Equipped Skills
-
-<div align="center">
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=22d3ee) ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=a855f7) ![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=22d3ee) ![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=a855f7) |
-| **Frontend & UI** | ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=22d3ee) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=a855f7) ![Vite](https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite&logoColor=22d3ee) |
-| **Tools & Gear** | ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=a855f7) ![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee) ![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=a855f7) ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=22d3ee) |
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,py,react,tailwind,html,css,vite,git,github,vscode&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,py,react,tailwind,html,css,vite,git,github,vscode&theme=light" />
-  <img alt="Skill Icons" src="https://skillicons.dev/icons?i=js,py,react,tailwind,html,css,vite,git,github,vscode&theme=dark" />
-</picture>
-
-</div>
-
----
-
-### 🚀 `~/featured-quests` — Project Showcase
-
-<table width="100%">
-  <tr>
     <td width="50%" valign="top">
-      <h3>🌌 <a href="https://github.com/OmegaRyujin/anitrackr">AniTrackr</a></h3>
-      <p>A sleek anime, manga, and light novel backlog tracker with seasonal charts and custom tier lists.</p>
-      <p>
-        <kbd>React</kbd> <kbd>Tailwind CSS</kbd> <kbd>Jikan API</kbd>
-      </p>
-      <p><a href="https://github.com/OmegaRyujin/anitrackr"><b>🔗 View Repository →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📖 <a href="https://github.com/OmegaRyujin/novelverse-reader">NovelVerse Reader</a></h3>
+      <h4><code>01 // NovelVerse Reader</code> &nbsp;<kbd>[ONLINE]</kbd></h4>
       <p>Distraction-free web light novel reader featuring customizable dark themes, typography controls, and bookmarking.</p>
-      <p>
-        <kbd>JavaScript</kbd> <kbd>Tailwind CSS</kbd> <kbd>LocalStorage</kbd>
-      </p>
-      <p><a href="https://github.com/OmegaRyujin/novelverse-reader"><b>🔗 View Repository →</b></a></p>
+      <a href="https://github.com/OmegaRyujin/NovelVerse-Reader">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmegaRyujin&repo=NovelVerse-Reader&bg_color=0D0221&title_color=00F0FF&text_color=C9D1D9&icon_color=FF2A6D&border_color=7B2FF7&border_radius=4" width="100%" alt="NovelVerse Reader Repo Card" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4><code>02 // AniTrackr</code> &nbsp;<kbd>[ONLINE]</kbd></h4>
+      <p>A sleek anime, manga, and light novel backlog tracker with seasonal charts and custom tier lists.</p>
+      <a href="https://github.com/OmegaRyujin/AniTrackr">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmegaRyujin&repo=AniTrackr&bg_color=0D0221&title_color=00F0FF&text_color=C9D1D9&icon_color=FF2A6D&border_color=7B2FF7&border_radius=4" width="100%" alt="AniTrackr Repo Card" />
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐍 <a href="https://github.com/OmegaRyujin/ryujin-ReleaseBot">Ryujin Release Notifier</a></h3>
-      <p>Lightweight Python automation script that tracks new manga chapters and light novel translations.</p>
-      <p>
-        <kbd>Python</kbd> <kbd>BeautifulSoup</kbd> <kbd>AsyncIO</kbd>
-      </p>
-      <p><a href="https://github.com/OmegaRyujin/ryujin-ReleaseBot"><b>🔗 View Repository →</b></a></p>
+      <h4><code>03 // Ryujin Release Notifier</code> &nbsp;<kbd>[IN DEVELOPMENT]</kbd></h4>
+      <p>Distraction-free web light novel reader featuring customizable dark themes, typography controls, and bookmarking.</p>
+      <a href="https://github.com/OmegaRyujin/Ryujin-Release-Notifier">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmegaRyujin&repo=Ryujin-Release-Notifier&bg_color=0D0221&title_color=00F0FF&text_color=C9D1D9&icon_color=FF2A6D&border_color=7B2FF7&border_radius=4" width="100%" alt="Ryujin Release Notifier Repo Card" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/OmegaRyujin/omega-portfolio">OmegaRyujin Hub</a></h3>
+      <h4><code>04 // OmegaRyujin Hub</code> &nbsp;<kbd>[ONLINE]</kbd></h4>
       <p>Personal developer portfolio built with neon purple-and-cyan cyberpunk aesthetics and responsive animations.</p>
-      <p>
-        <kbd>React</kbd> <kbd>Tailwind CSS</kbd> <kbd>Vite</kbd>
-      </p>
-      <p><a href="https://github.com/OmegaRyujin/omega-portfolio"><b>🔗 View Repository →</b></a></p>
+      <a href="https://github.com/OmegaRyujin/OmegaRyujin-Hub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmegaRyujin&repo=OmegaRyujin-Hub&bg_color=0D0221&title_color=00F0FF&text_color=C9D1D9&icon_color=FF2A6D&border_color=7B2FF7&border_radius=4" width="100%" alt="OmegaRyujin Hub Repo Card" />
+      </a>
     </td>
   </tr>
 </table>
 
-> 💡 *Swap the repository names above with your live projects as you publish them!*
+</div>
 
----
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="HUD Divider" />
+</div>
 
-### 📊 `~/combat-stats` — GitHub Telemetry
+<!-- ===================================================================== -->
+<!-- 6. STATS DASHBOARD                                                    -->
+<!-- ===================================================================== -->
+### `// 04 :: SYSTEM.DIAGNOSTICS [ HUD_TELEMETRY ]`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=OmegaRyujin&show_icons=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=22d3ee&border_color=30363d&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=OmegaRyujin&show_icons=true&bg_color=ffffff&title_color=7e22ce&text_color=334155&icon_color=0891b2&border_color=e2e8f0&hide_border=false" />
-  <img height="175" alt="OmegaRyujin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OmegaRyujin&show_icons=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=22d3ee&border_color=30363d&hide_border=false" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaRyujin&layout=compact&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_color=30363d&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaRyujin&layout=compact&bg_color=ffffff&title_color=7e22ce&text_color=334155&border_color=e2e8f0&hide_border=false" />
-  <img height="175" alt="OmegaRyujin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaRyujin&layout=compact&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_color=30363d&hide_border=false" />
-</picture>
-
-<br/>
+```
++-----------------------------------------------------------------------------------+
+| >> TELEMETRY_HUD :: REAL-TIME GITHUB METRICS // NODE: OMEGARYUJIN                 |
++-----------------------------------------------------------------------------------+
+```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=OmegaRyujin&background=0D1117&border=30363D&stroke=30363D&ring=A855F7&fire=22D3EE&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A855F7&sideLabels=22D3EE&dates=8B949E" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=OmegaRyujin&background=FFFFFF&border=E2E8F0&stroke=E2E8F0&ring=7E22CE&fire=0891B2&currStreakNum=1E293B&sideNums=1E293B&currStreakLabel=7E22CE&sideLabels=0891B2&dates=64748B" />
-  <img height="165" alt="OmegaRyujin's Streak Stats" src="https://streak-stats.demolab.com?user=OmegaRyujin&background=0D1117&border=30363D&stroke=30363D&ring=A855F7&fire=22D3EE&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A855F7&sideLabels=22D3EE&dates=8B949E" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=OmegaRyujin&show_icons=true&count_private=true&bg_color=0D0221&title_color=00F0FF&text_color=C9D1D9&icon_color=FF2A6D&border_color=7B2FF7&ring_color=FCEE0A&border_radius=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=OmegaRyujin&show_icons=true&count_private=true&bg_color=0A0A12&title_color=00F0FF&text_color=FFFFFF&icon_color=FF2A6D&border_color=7B2FF7&ring_color=FCEE0A&border_radius=4" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=OmegaRyujin&show_icons=true&count_private=true&bg_color=0D0221&title_color=00F0FF&text_color=C9D1D9&icon_color=FF2A6D&border_color=7B2FF7&ring_color=FCEE0A&border_radius=4" alt="OmegaRyujin GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaRyujin&layout=compact&langs_count=6&bg_color=0D0221&title_color=00F0FF&text_color=C9D1D9&border_color=7B2FF7&border_radius=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaRyujin&layout=compact&langs_count=6&bg_color=0A0A12&title_color=00F0FF&text_color=FFFFFF&border_color=7B2FF7&border_radius=4" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaRyujin&layout=compact&langs_count=6&bg_color=0D0221&title_color=00F0FF&text_color=C9D1D9&border_color=7B2FF7&border_radius=4" alt="OmegaRyujin Top Languages" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=OmegaRyujin&background=0D0221&border=7B2FF7&stroke=7B2FF7&ring=FF2A6D&fire=FCEE0A&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF2A6D&sideLabels=C9D1D9&dates=7B2FF7&border_radius=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=OmegaRyujin&background=0A0A12&border=7B2FF7&stroke=7B2FF7&ring=FF2A6D&fire=FCEE0A&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF2A6D&sideLabels=FFFFFF&dates=7B2FF7&border_radius=4" />
+  <img width="495" src="https://streak-stats.demolab.com?user=OmegaRyujin&background=0D0221&border=7B2FF7&stroke=7B2FF7&ring=FF2A6D&fire=FCEE0A&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF2A6D&sideLabels=C9D1D9&dates=7B2FF7&border_radius=4" alt="OmegaRyujin Streak Stats" />
 </picture>
 
 </div>
 
----
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="HUD Divider" />
+</div>
 
-### 🐉 `~/dragon-trail` — Contribution Grid
+<!-- ===================================================================== -->
+<!-- 7. CONTRIBUTION VISUAL                                                -->
+<!-- ===================================================================== -->
+### `// 05 :: NEURAL.GRID [ CONTRIBUTION_MATRIX ]`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmegaRyujin/OmegaRyujin/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmegaRyujin/OmegaRyujin/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OmegaRyujin/OmegaRyujin/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="Cyberpunk Contribution Grid Snake" src="https://raw.githubusercontent.com/OmegaRyujin/OmegaRyujin/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
----
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="HUD Divider" />
+</div>
 
-### 🌐 `~/summon-me` — Let's Connect!
+<!-- ===================================================================== -->
+<!-- 8. CURRENTLY (ACTIVE PROCESSES)                                       -->
+<!-- ===================================================================== -->
+### `// 06 :: ACTIVE.PROCESSES [ CURRENT_THREADS ]`
+
+```yaml
+PID   STATUS      PRIORITY   PROCESS_DESCRIPTION
+----  ----------  ---------  -------------------------------------------------------------------------
+1024  [RUNNING]   HIGH       Building interactive frontends with React & Tailwind CSS, backed by JS & Python.
+2048  [LEARNING]  HIGH       Student & hobbyist dev on a quest to master modern Full-Stack Web Development.
+3072  [UPGRADING] MEDIUM     Crafting responsive full-stack web apps & leveling up my UI/UX game.
+4096  [LISTENING] OPEN       Open to collaborating on anime/light-novel tools, OSS UI kits & web utilities.
+8192  [IDLE_FUN]  OVERRIDE   Binging seasonal Anime, catching up on Manga, or deep in a 23-vol Light Novel.
+```
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="HUD Divider" />
+</div>
+
+<!-- ===================================================================== -->
+<!-- 9. CONTACT / UPLINK                                                   -->
+<!-- ===================================================================== -->
+### `// 07 :: ESTABLISH.UPLINK [ COMMS_CHANNELS ]`
 
 <div align="center">
 
+<p><code>>> TRANSMIT ENCRYPTED PACKET TO ANY NODE BELOW:</code></p>
+
+<a href="mailto:OmegaRyujin@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-OmegaRyujin%40gmail.com-00F0FF?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0D0221" alt="Email OmegaRyujin" />
+</a>
+<a href="https://x.com/RTatsuyama56895">
+  <img src="https://img.shields.io/badge/X%20%2F%20TWITTER-%40RTatsuyama56895-FF2A6D?style=for-the-badge&logo=x&logoColor=FF2A6D&labelColor=0D0221" alt="Twitter/X @RTatsuyama56895" />
+</a>
+<a href="https://discord.com/">
+  <img src="https://img.shields.io/badge/DISCORD-OmegaRyujin-7B2FF7?style=for-the-badge&logo=discord&logoColor=00F0FF&labelColor=0D0221" alt="Discord: OmegaRyujin" />
+</a>
 <a href="https://github.com/OmegaRyujin">
-  <img src="https://img.shields.io/badge/GitHub-OmegaRyujin-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub" />
-</a>
-<a href="https://discord.com">
-  <img src="https://img.shields.io/badge/Discord-Say_Hello-22d3ee?style=for-the-badge&logo=discord&logoColor=white&labelColor=0f172a" alt="Discord" />
-</a>
-<a href="https://myanimelist.net">
-  <img src="https://img.shields.io/badge/MyAnimeList-Anime_%26_LN_List-a855f7?style=for-the-badge&logo=myanimelist&logoColor=white&labelColor=0f172a" alt="MyAnimeList" />
-</a>
-<a href="https://x.com">
-  <img src="https://img.shields.io/badge/X_%2F_Twitter-Connect-22d3ee?style=for-the-badge&logo=x&logoColor=white&labelColor=0f172a" alt="X" />
+  <img src="https://img.shields.io/badge/GITHUB-OmegaRyujin-FCEE0A?style=for-the-badge&logo=github&logoColor=FCEE0A&labelColor=0D0221" alt="GitHub: OmegaRyujin" />
 </a>
 
-<br/><br/>
+</div>
 
-<sub>⚡ Crafted with code, caffeine, and anime vibes by <b>OmegaRyujin</b> ⚡</sub>
+<br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6b21a8,100:0f172a&height=110&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:9333ea,100:3b0764&height=110&section=footer" />
-  <img alt="Footer Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6b21a8,100:0f172a&height=110&section=footer" width="100%" />
-</picture>
+<!-- ===================================================================== -->
+<!-- 10. FOOTER                                                            -->
+<!-- ===================================================================== -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A12,35:0D0221,70:7B2FF7,100:00F0FF&height=115&section=footer&text=%2F%2F%20END%20OF%20TRANSMISSION%20%5B%20CONNECTION%20TERMINATED%20%5D&fontSize=14&fontColor=00F0FF&fontAlignY=70&animation=twinkling" width="100%" alt="Footer Wave" />
+
+<sub><code>[ SYS.VER 2.0.77 ] // DESIGNED FOR OMEGARYUJIN // ALL NEURAL LINKS SECURED</code></sub>
 
 </div>
